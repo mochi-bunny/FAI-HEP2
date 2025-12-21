@@ -1,7 +1,7 @@
 Model weights urls <p>
 VIT: https://www.kaggle.com/models/case143/vit-best/ <p>
-RESCNN: https://www.kaggle.com/models/case143/cnn/ <p>
-CNN: https://www.kaggle.com/models/case143/rescnn/ <p>
+CNN: https://www.kaggle.com/models/case143/cnn/ <p>
+RESCNN: https://www.kaggle.com/models/case143/rescnn/ <p>
 ENSEMBLE: https://www.kaggle.com/models/case143/ensemble-fai/ <p>
 
 Navigate to the DEMO folder and open the notebook demo.ipynb  <p>
